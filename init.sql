@@ -1,3 +1,4 @@
 CREATE DATABASE iam_db;
 CREATE DATABASE tenant_db;
 CREATE DATABASE billing_db;
+CREATE DATABASE transactions_db;
